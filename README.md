@@ -1,27 +1,40 @@
-<h1 align="center">Hi, I'm Vivek Patel 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=36BCF7&center=true&vCenter=true&width=620&lines=AI+%26+ML+Student;Learning+Python%2C+FastAPI+%26+n8n;Exploring+AI+agents+and+automation" alt="AI and ML student | Learning Python, FastAPI and n8n | Exploring AI agents and automation" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=190&section=header&text=Vivek%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student&descAlignY=62&descSize=18"
+    alt="Vivek Patel — AI and ML Student"
+  />
 </p>
 
 <p align="center">
-  B.Tech student in Artificial Intelligence and Machine Learning<br />
-  Sagar Institute of Research & Technology, Bhopal
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=60A5FA&center=true&vCenter=true&width=560&lines=Learning+Python%2C+FastAPI+%26+n8n;Exploring+AI+agents+and+automation;Building+my+first+projects"
+    alt="Learning Python, FastAPI and n8n; exploring AI agents and automation; building my first projects"
+  />
+</p>
+
+<p align="center">
+  B.Tech in Artificial Intelligence and Machine Learning<br />
+  Sagar Institute of Research & Technology · Bhopal
 </p>
 
 ---
 
-### About me
+### A little about me
 
-- 🌱 Learning Python, FastAPI, and n8n
-- 🤖 Interested in AI agents, generative AI, and workflow automation
-- 🎥 Exploring AI-assisted short-form video creation
+I’m interested in using AI to build useful applications and automate everyday tasks.
+I’m currently learning and working toward my first projects.
 
-### What I'm building toward
+### Exploring
 
-I'm working toward my first small projects in APIs and automation.
-I'll feature them here once they're ready.
+`Python` · `FastAPI` · `n8n` · `AI Agents` · `Generative AI`
 
-### Connect
+### Find me here
 
-[Email](mailto:vivekpatel80913@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vivek-patel-481249333)
+<p>
+  <a href="mailto:vivekpatel80913@gmail.com">
+    <img src="https://img.shields.io/badge/Email- contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vivek" />
+  </a>
+  <a href="https://www.linkedin.com/in/vivek-patel-481249333">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Vivek on LinkedIn" />
+  </a>
+</p>
