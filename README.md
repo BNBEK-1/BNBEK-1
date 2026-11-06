@@ -61,8 +61,8 @@ A machine learning pipeline for matching noisy business records across multiple 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BNBEK-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vivek's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNBEK-1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=BNBEK-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vivek's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BNBEK-1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 ![GitHub followers](https://img.shields.io/github/followers/BNBEK-1?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/BNBEK-1?affiliations=OWNER%2CCOLLABORATOR&style=social)
